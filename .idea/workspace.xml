@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c63d90d-3282-4f72-86fe-f83e71fa81b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/book/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/books/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/lessonApp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/book" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MMehUF9ijwK9IHDIACkuGEMjYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c63d90d-3282-4f72-86fe-f83e71fa81b7" name="Changes" comment="" />
+      <created>1677581997122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677581997122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
