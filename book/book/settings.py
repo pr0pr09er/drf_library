@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     # apps
-    'books',
-    'lessonApp',
+    'books.apps.BooksConfig',
+    'lessonApp.apps.LessonappConfig',
 ]
 
 MIDDLEWARE = [
